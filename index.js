@@ -9,10 +9,10 @@ module.exports = function (args, callback) {
     case '-h':
       callback(null, [
         'Usage:',
-        '  q [MINUTES] [MESSAGE]',
+        '  in [MINUTES] [MESSAGE]',
         '',
         'Example:',
-        '  q 10 put the milk back in the fridge'
+        '  in 10 put the milk back in the fridge'
       ].join('\n'))
       break
 
