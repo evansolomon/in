@@ -1,0 +1,17 @@
+{
+  "name": "in",
+  "version": "0.1.0",
+  "description": "Command line reminder tool.",
+  "main": "index.js",
+  "bin": "./bin/in",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evansolomon/in"
+  },
+  "author": "Evan Solomon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evansolomon/in/issues"
+  },
+  "homepage": "https://github.com/evansolomon/in"
+}
